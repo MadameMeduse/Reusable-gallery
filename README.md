@@ -1,5 +1,5 @@
 # Reusable Gallery
-[Click to see demo](https://madamemeduse.github.io/Shoping-List/)
+[Click to see demo](https://madamemeduse.github.io/Reusable-gallery/.)
 ## Aby uruchomić aplikację należy kliknąć w link demo powyżej lub:
     
 
@@ -13,16 +13,11 @@
 
 Aplikacja zbudowana za pomocą **JavaScript ES6** za pomocą metod:
  
- - map
- - find
- - filter
- - JSON.stringify
- - JSON.parse
- - matches
- - push
- - reset
- - customEvent
- - spread operator
- - local storage (set item, get item)
+- Arrow functions
+- Closures
+- Matches
+- Event listeners
+- Array From
+
 
 
